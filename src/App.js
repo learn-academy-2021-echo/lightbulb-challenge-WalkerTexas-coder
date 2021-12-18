@@ -6,6 +6,7 @@ class App extends Component{
     return(
       <>
         <h1>Hello World!</h1>
+        <div> A qucik example of the PR cycle </div>
       </>
     )
   }
